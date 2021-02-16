@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "chat-ib"
+    }
+  },
+  "defaultProject": "chat-ib",
+  "cli": {
+    "analytics": "35ace7c6-496d-4574-8944-7653170583dd"
+  }
 }
